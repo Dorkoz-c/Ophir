@@ -15,12 +15,12 @@ body {
 }
 
 a {
-  color: #47b2e4;
+  color: #665191;
   text-decoration: none;
 }
 
 a:hover {
-  color: #73c5eb;
+  color: #665191;
   text-decoration: none;
 }
 
@@ -44,7 +44,7 @@ h6 {
   bottom: 0;
   z-index: 9999;
   overflow: hidden;
-  background: #37517e;
+  background: #665191;
 }
 
 #preloader:before {
